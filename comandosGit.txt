@@ -2,3 +2,5 @@ git init = inicializa um repositório git
 git status = visializa o status do repositório
 git add nomeArquivo = adiciona um arquivo específico para commit
 git add . = adiciona todos os arquivos alterados/incluídos para commit
+git commit -m "comentário" = cria um ponto de controle do código (versão)
+git push origin master = envia os commits para o repositório definido (neste caso o master)

@@ -5,5 +5,4 @@ git add . = adiciona todos os arquivos alterados/incluídos para commit
 git commit -m "comentário" = cria um ponto de controle do código (versão)
 git push origin master = envia os commits para o repositório definido (neste caso o master)
 git pull = baixa as alterações do repositório remoto para repositório local
-linha a ser removida
 git checkout -f = desfaz as auterações não adiciona para commit

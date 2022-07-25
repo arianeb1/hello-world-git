@@ -8,3 +8,5 @@ git pull = baixa as alterações do repositório remoto para repositório local
 git checkout -f = desfaz as auterações não adiciona para commit
 git clone https://github.com/arianeb1/hello-world-git.git = clona repositório
 git branch = lista as branchs existentes.
+git log = mostra o histórico de commits
+git diff = mostra as diferenças ds arquivos editados

@@ -1,5 +1,6 @@
 Teste linha 1
 Teste linha 2
+teste de merge automatico
 Teste linha 3
 TESTE Ezequiel
 Teste linha 4

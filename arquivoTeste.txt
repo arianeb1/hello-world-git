@@ -1,5 +1,5 @@
 Teste linha 1
-Teste linha 2 Ariane
+Teste linha 2 Ariane Ezequiel
 teste de merge automatico
 Teste linha 3
 TESTE Ezequiel

@@ -3,3 +3,4 @@ Teste linha 2
 Teste linha 3
 TESTE Ezequiel
 Teste linha 4
+Teste merge

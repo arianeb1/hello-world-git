@@ -7,3 +7,4 @@ git push origin master = envia os commits para o repositório definido (neste ca
 git pull = baixa as alterações do repositório remoto para repositório local
 git checkout -f = desfaz as auterações não adiciona para commit
 git clone https://github.com/arianeb1/hello-world-git.git = clona repositório
+git branch = lista as branchs existentes.
